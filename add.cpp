@@ -7,5 +7,6 @@ int main()
 	cin >>x>>y;
 	cout<<"the result of the addition is="
 	cout<<x+y;
+	cout<<endl;
  return 0;
 }
